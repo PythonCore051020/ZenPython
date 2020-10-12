@@ -5,4 +5,3 @@ Readability counts.
 Special cases aren't special enough to break the rules.
 Now is better than never.		
 Although never is often better than *right* now.
-	
